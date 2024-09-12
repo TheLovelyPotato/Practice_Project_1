@@ -1,2 +1,3 @@
 # Practice_Project_1
-Propper ReadMe pending :(
+my name: Sam Palatnikov
+my email: Samuel.palatnikov@wsu.edu 
